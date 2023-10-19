@@ -1,4 +1,4 @@
-This is a nodejs project for flight-search-service module for airline booking system.
+This is a nodejs project for flight-Booking-service module for airline booking system.
 
 
 ###  SETUP
