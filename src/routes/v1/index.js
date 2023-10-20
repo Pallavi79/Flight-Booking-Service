@@ -7,4 +7,5 @@ router.get('/info',InfoController.info);
 const bookingRoutes = require('./booking')
 router.use('/bookings',bookingRoutes);
 
+
 module.exports = router;
